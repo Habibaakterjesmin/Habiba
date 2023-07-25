@@ -145,6 +145,38 @@ align-items: center;
 font-size: 30px;
 color: #ffff;
 margin: auto;
-margin-bottom: 20px;
+margin-bottom: 30px;
+}
+
+.work_section {
+background: #f9f9f9;
+padding: 50px 0;
+}
+.work_wrapper {
+width: 80%;
+margin: auto;
+
+
+}
+.work_heading {
+text-align: center;
+margin: auto;
+
+}
+.work_heading h1 {
+font-size: 50px;
+margin-bottom: 30px;
+}
+.work_heading p {
+
+}
+.gallery{
+display: flex;
+flex-wrap: wrap;
+}
+.gallery_item{
+
+}
+.gallery_item img{
 
 }
